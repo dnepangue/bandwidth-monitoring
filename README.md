@@ -28,4 +28,4 @@ NOTE: To update vnstat every 5 minutes, add this in your crontab.
 To Do
 ====================
 
-Add support for vnsati, and improve version of vnstat with graphs.
+Add support for vnstati, and improve version of vnstat with graphs.
